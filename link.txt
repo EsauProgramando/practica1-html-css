@@ -1,0 +1,9 @@
+
+targeta:
+https://www.figma.com/community/file/1048716561258105757?preview=fullscreen
+
+formulario:
+https://www.figma.com/community/file/1060357759004048719?preview=fullscreen
+
+header:
+https://www.figma.com/file/pJY7ltn0Y9Sn7BJz80RMu8/Hero-Header-002---BItcoin%3A-The-Future-of-Crypto-(Community)?node-id=0%3A1

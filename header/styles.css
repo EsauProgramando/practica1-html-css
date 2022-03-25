@@ -1,0 +1,86 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+.header {
+  width: 100%;
+  height: 46rem;
+  background-color: rgb(17, 53, 53);
+}
+.linea {
+  width: 100%;
+  height: 1px;
+  background-color: rgb(41, 40, 40);
+}
+.nav {
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.082);
+  line-height: 53px;
+}
+.nav ul li {
+  display: inline-block;
+}
+.nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  font-family: Arial black;
+  font-size: 20px;
+  font-weight: 900;
+  color: #fff;
+}
+.nav ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  color: #fff;
+}
+.right {
+  float: right;
+}
+#color {
+  color: #ff00e5;
+}
+
+.container {
+  width: 50rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.container h1 {
+  font-size: 60px;
+  color: #ffffff;
+  font-weight: 700;
+}
+.container p {
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+}
+.button {
+  text-align: center;
+  margin: 56px auto;
+}
+button {
+  border-radius: 40px;
+  height: 57px;
+  width: 278px;
+  font-size: 16px;
+  text-align: center;
+}
+.izquierda {
+  background-color: #ff00e5;
+}
+.derecha {
+  background-color: #ffffff;
+}
